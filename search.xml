@@ -5,8 +5,8 @@
     
     <entry>
       <title>안녕하세요. 개발자 블로그입니다.</title>
-      <link href="/2019/01/19/hello-world/"/>
-      <url>/2019/01/19/hello-world/</url>
+      <link href="/2019/01/19/Introduce/"/>
+      <url>/2019/01/19/Introduce/</url>
       
         <content type="html"><![CDATA[<p>간단한 소개 입니다.  </p><hr><h1 id="개발-및-연구-분야"><a href="#개발-및-연구-분야" class="headerlink" title="개발 및 연구 분야"></a>개발 및 연구 분야</h1><h2 id="연구분야"><a href="#연구분야" class="headerlink" title="연구분야"></a>연구분야</h2><ul><li>DataMining (Text Minig)  </li><li>NLP / NLU / NLG  </li><li>NER  </li><li>Search Engine  </li><li>Chatbot  </li><li>Bigdata Analysis  </li></ul><h2 id="Language"><a href="#Language" class="headerlink" title="Language"></a>Language</h2><ul><li>Python  </li><li>Scala  </li><li>Java  </li><li>Visual Basic  </li></ul><h2 id="Framework"><a href="#Framework" class="headerlink" title="Framework"></a>Framework</h2><ul><li>Tensor Flow / Keras  </li><li>Scikit-learn /Pandas  </li><li>Django/Flask  </li><li>Scrapy  </li><li>Spring Boot  </li><li>Solr/Elastic/Lucene  </li><li>Hadoop / Hive / Hbase  </li><li>Spark  </li><li><p>Android   </p><p>  즐겁게 토론하며 개발하기를 꿈꾸는 개발자입니다.  </p></li></ul>]]></content>
       
