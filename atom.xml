@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-28T07:43:13.469Z</updated>
+  <updated>2019-07-03T02:04:55.201Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>deploy테스트입니다.</title>
+    <link href="http://yoursite.com/2019/07/02/deploy%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9E%85%EB%8B%88%EB%8B%A4/"/>
+    <id>http://yoursite.com/2019/07/02/deploy테스트입니다/</id>
+    <published>2019-07-02T17:03:00.000Z</published>
+    <updated>2019-07-03T02:04:55.201Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="제목"><a href="#제목" class="headerlink" title="제목"></a>제목</h1><p>테스트입ㄴ디ㅏ.</p><p>커밋테스트입니다.</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">너는내 운명</span><br><span class="line">윤딴딴 겨울을 걷다.</span><br></pre></td></tr></table></figure><ul><li>안녕하세요.  </li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;제목&quot;&gt;&lt;a href=&quot;#제목&quot; class=&quot;headerlink&quot; title=&quot;제목&quot;&gt;&lt;/a&gt;제목&lt;/h1&gt;&lt;p&gt;테스트입ㄴ디ㅏ.&lt;/p&gt;
+&lt;p&gt;커밋테스트입니다.&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="테스트" scheme="http://yoursite.com/categories/%ED%85%8C%EC%8A%A4%ED%8A%B8/"/>
+    
+    
+      <category term="커밋테스트" scheme="http://yoursite.com/tags/%EC%BB%A4%EB%B0%8B%ED%85%8C%EC%8A%A4%ED%8A%B8/"/>
+    
+      <category term="챗봇" scheme="http://yoursite.com/tags/%EC%B1%97%EB%B4%87/"/>
+    
+      <category term="오늘" scheme="http://yoursite.com/tags/%EC%98%A4%EB%8A%98/"/>
+    
+      <category term="윤딴딴" scheme="http://yoursite.com/tags/%EC%9C%A4%EB%94%B4%EB%94%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>skctest</title>
